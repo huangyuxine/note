@@ -14,6 +14,7 @@
     - 框架
       - Laravel
         * [Artisan](后端/PHP/框架/Laravel/artisan.md)
+        * [Elasticsearch](后端/PHP/框架/Laravel/elasticsearch.md)
         * [插件](后端/PHP/框架/Laravel/插件.md)
       - Thinkphp
         * [错误处理](后端/PHP/框架/Thinkphp/错误处理.md)
