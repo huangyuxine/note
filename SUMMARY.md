@@ -21,6 +21,7 @@
     - 配置
       * [PHP](后端/PHP/配置/PHP.md)
     - [面试题](后端/PHP/面试题/面试题.md)
+    * [设计模式](后端/PHP/设计模式.md)
 - 实用
   * [Apidoc](实用/apidoc.md)
   * [Jwt](实用/jwt.md)
