@@ -43,6 +43,7 @@
     * [常用](操作系统/windows/常用.md)
 - 数据库
   - Mysql
+    * [Explain](数据库/mysql/Explain.md)
     * [外键](数据库/mysql/外键.md)
     * [存储过程和存储函数](数据库/mysql/存储过程和存储函数.md)
 - 测试
