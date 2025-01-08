@@ -4,6 +4,7 @@
   * [同时配置git和gitee](git/同时配置git和gitee.md)
   * [基础命令](git/基础命令.md)
   * [第一次提交](git/第一次提交.md)
+  * [规范](git/规范.md)
 - web安全
   * [常见安全问题](web安全/常见安全问题.md)
 - web服务器
@@ -46,6 +47,7 @@
     * [Explain](数据库/mysql/Explain.md)
     * [外键](数据库/mysql/外键.md)
     * [存储过程和存储函数](数据库/mysql/存储过程和存储函数.md)
+    * [索引](数据库/mysql/索引.md)
 - 测试
   * [Wrk](测试/wrk.md)
 - 网络
